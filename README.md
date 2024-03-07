@@ -28,7 +28,7 @@ Send 0.01 Solana to the address: `nCbcLtBX1hNYMBqJyFrTkiB5zss2RBWAtnvvVTFKE8q`, 
 #### 5. Set Up Kids' Wallets:
 Repeat the process on your kids' devices. Ensure they also back up their recovery phrases.
 
-#### 6. Receive Real Money, Send Value:
+#### 6. Fund Their Wallets:
 Send about 0.2 SOL to their wallets so that they can pay transactions in the future.
 
 #### 7. Receive Real Money, Send Value:
