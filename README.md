@@ -11,7 +11,7 @@ Functioning as symbolic representations of real money - TUTORIAL
 3. **Transaction:** When ready to make a purchase, children send back the corresponding coins (e.g., a 53€ toy requires sending 53 coins) to their parents.
 
 
-# Setting Up "Spara Pengar" Wallet: A Quick Guide
+# Setting Up Wallet and "Spara Pengar" coins: A Quick Guide
 
 #### 1. Install Solflare Wallet:
 Download Solflare wallet on your mobile phone or use the browser extension.
