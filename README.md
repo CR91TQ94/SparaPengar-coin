@@ -23,7 +23,7 @@ If you don't have a wallet, create one. Write down the recovery phrase by hand; 
 Purchase some Solana (even 1 is enough) to fund your wallet. It is needed to pay transactions in the future. Each transaction is about 0.0005 SOL.
 
 #### 4. Receive 100,000 Coins:
-Send 0.1 Solana to the address: `nCbcLtBX1hNYMBqJyFrTkiB5zss2RBWAtnvvVTFKE8q`, and I'll send you back 100,000 coins. It is easy, since I will know where to send SparaPengar coins.
+Send 0.01 Solana to the address: `nCbcLtBX1hNYMBqJyFrTkiB5zss2RBWAtnvvVTFKE8q`, and I'll send you back 100,000 coins. It is easy, since I will know where to send SparaPengar coins.
 
 #### 5. Set Up Kids' Wallets:
 Repeat the process on your kids' devices. Ensure they also back up their recovery phrases.
@@ -33,3 +33,7 @@ Send about 0.2 SOL to their wallets so that they can pay transactions in the fut
 
 #### 7. Receive Real Money, Send Value:
 When your kids receive money, send the corresponding value to their wallet address. Use QR codes for a seamless experience, and watch them enjoy receiving and using their coins!
+
+# SparaPengar contract address is:
+https://solscan.io/token/99mWTVYmVTaxR8cGDftHFbk4ZdVxkAuVMbYWTK4GtK5T
+(do not send SOL there!)
